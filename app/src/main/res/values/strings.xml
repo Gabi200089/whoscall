@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">whoscall</string>
+    <string-array name="classes">
+        <item>商家</item>
+        <item>詐騙集團</item>
+        <item>一接就掛</item>
+        <item>一般用戶</item>
+    </string-array>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="whos_call">Whos Call</string>
+    <string name="輸入名字">輸入名稱</string>
+    <string name="輸入類別">輸入類別</string>
+    <string name="add_data">Add Data</string>
+    <string name="輸入電話號碼">輸入電話號碼</string>
+
+</resources>
